@@ -256,7 +256,7 @@ params:
   #
   # Default: `true`
   # BOOLEAN; `true`, `false`
-  enableLastMod: true
+  enableLastMod: false
 
   # What header design should we use?
   #
