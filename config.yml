@@ -198,8 +198,6 @@ params:
       category: Clients
     - name: Ines
       category: Clients
-    - name: DIE LINKE. queer
-      category: Clients
 
   # What date format to use?
   #
