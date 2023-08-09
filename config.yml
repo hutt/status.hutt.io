@@ -145,16 +145,16 @@ params:
   categories:
     - name: Personal
       closed: false
-      untitled: true
+      untitled: false
     - name: Services
       closed: false
-      untitled: true
+      untitled: false
     - name: Blogs
       closed: false
-      untitled: true
+      untitled: false
     - name: Clients
       closed: false
-      untitled: true
+      untitled: false
 
   # These are your systems. Change them to
   # change the amount of components.
@@ -169,8 +169,6 @@ params:
       link: https://hutt.io
     - name: Slides
       category: Personal
-    - name: netdata Dashboard
-      category: Services
     - name: Mailserver
       category: Services
     - name: Mastodon
@@ -179,6 +177,8 @@ params:
     - name: Mastodon Streaming
       category: Services
     - name: Matomo
+      category: Services
+    - name: netdata
       category: Services
     - name: Nextcloud
       category: Services
@@ -194,7 +194,6 @@ params:
       category: Blogs
     - name: Spectre Theme Demo
       category: Blogs
-      link: https://spectre.hutt.io
     - name: Felix
       category: Clients
     - name: Ines
