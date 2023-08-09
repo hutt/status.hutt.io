@@ -268,7 +268,7 @@ params:
   #
   # Default: `yearly`
   # STRING; `monthly`, `yearly`, `none`
-  incidentHistoryFormat: "monthly"
+  incidentHistoryFormat: "yearly"
 
   # Should incident history be hidden?
   #
@@ -280,7 +280,7 @@ params:
   #
   # Default: `false`
   # BOOLEAN; `true`, `false`
-  disableIncidentHistory: true
+  disableIncidentHistory: false
 
   # Disable dark mode
   #
@@ -345,7 +345,7 @@ params:
   # in one page
   #
   # NUMERIC; Default: `10`
-  incidentPostsPerPage: 10
+  incidentPostsPerPage: 5
 
   # Colors throughout cState
   #
