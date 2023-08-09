@@ -146,14 +146,14 @@ params:
     - name: Personal
       closed: false
       untitled: false
+    - name: Hosting
+      closed: false
+      untitled: false
     - name: Services
       closed: false
       untitled: false
     - name: Blogs
-      closed: false
-      untitled: false
-    - name: Clients
-      closed: false
+      closed: true
       untitled: false
 
   # These are your systems. Change them to
@@ -198,9 +198,9 @@ params:
       category: Blogs
       link: https://spectre.hutt.io
     - name: Felix
-      category: Clients
+      category: Hosting
     - name: Ines
-      category: Clients
+      category: Hosting
 
   # What date format to use?
   #
