@@ -153,7 +153,7 @@ params:
       closed: false
       untitled: false
     - name: Blogs
-      closed: true
+      closed: false
       untitled: false
 
   # These are your systems. Change them to
@@ -167,14 +167,12 @@ params:
     - name: hutt.io
       category: Personal
       link: https://hutt.io
-    - name: Slides
-      category: Personal
     - name: Mailserver
       category: Services
     - name: Mastodon
       category: Services
       link: https://hutt.social
-    - name: Mastodon Streaming
+    - name: Mastodon Streaming API
       category: Services
     - name: Matomo
       category: Services
@@ -184,22 +182,24 @@ params:
       category: Services
     - name: Onlyoffice
       category: Services
+    - name: Slides
+      category: Services
     - name: traefik
       category: Services
-    - name: Webhooks
+    - name: webhooks
       category: Services
-    - name: Bloggenswertes
+    - name: bloggenswertes.de
       category: Blogs
       link: https://bloggenswertes.de
-    - name: uneasy listening
+    - name: uneasy-listening.com
       category: Blogs
       link: https://uneasy-listening.com
-    - name: Spectre Theme Demo
+    - name: Spectre Theme Demo (spectre.hutt.io)
       category: Blogs
       link: https://spectre.hutt.io
-    - name: Felix
+    - name: felixschulz.eu
       category: Hosting
-    - name: Ines
+    - name: inesschwerdtner.eu
       category: Hosting
 
   # What date format to use?
