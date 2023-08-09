@@ -199,8 +199,10 @@ params:
       link: https://spectre.hutt.io
     - name: felixschulz.eu
       category: Hosting
+      link: https://felixschulz.eu
     - name: inesschwerdtner.eu
       category: Hosting
+      link: https://inesschwerdtner.eu
 
   # What date format to use?
   #
