@@ -190,10 +190,13 @@ params:
       category: Services
     - name: Bloggenswertes
       category: Blogs
+      link: https://bloggenswertes.de
     - name: uneasy listening
       category: Blogs
+      link: https://uneasy-listening.com
     - name: Spectre Theme Demo
       category: Blogs
+      link: https://spectre.hutt.io
     - name: Felix
       category: Clients
     - name: Ines
