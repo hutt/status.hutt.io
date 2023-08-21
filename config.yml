@@ -203,6 +203,9 @@ params:
     - name: inesschwerdtner.eu
       category: Hosting
       link: https://inesschwerdtner.eu
+    - name: gronde-brunner.eu
+      category: Hosting
+      link: https://gronde-brunner.eu
 
   # What date format to use?
   #
