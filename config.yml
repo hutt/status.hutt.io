@@ -200,12 +200,12 @@ params:
     - name: felixschulz.eu
       category: Hosting
       link: https://felixschulz.eu
-    - name: inesschwerdtner.eu
-      category: Hosting
-      link: https://inesschwerdtner.eu
     - name: gronde-brunner.eu
       category: Hosting
       link: https://gronde-brunner.eu
+    - name: inesschwerdtner.eu
+      category: Hosting
+      link: https://inesschwerdtner.eu
 
   # What date format to use?
   #
