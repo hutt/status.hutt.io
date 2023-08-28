@@ -180,6 +180,8 @@ params:
       category: Services
     - name: Nextcloud
       category: Services
+    - name: Bautznercloud
+      category: Services
     - name: Onlyoffice
       category: Services
     - name: Slides
